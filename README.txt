@@ -1,0 +1,1 @@
+Στο αρχείο BattleShip_V2.2(οχι Battleship.jar) προσθέστε ενα .exe ώστε να τρέξει.
